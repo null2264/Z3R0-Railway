@@ -1,1 +1,1 @@
-FROM ghcr.io/ziro-bot/z3r0:canary
+FROM ghcr.io/ziro-bot/z3r0:nightly
